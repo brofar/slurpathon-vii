@@ -1,3 +1,3 @@
-# slurpathon-vii
+# Slurpathon VII
 
-Code for slurpathon.com for Slurpathon VII (2020)
+Slurpathon.com code used on Slurpathon VII (2020)
